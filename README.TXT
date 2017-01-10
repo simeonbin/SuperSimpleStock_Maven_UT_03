@@ -9,12 +9,14 @@ This is a maven project, so you can run:
 
 	or from within Netbeans by right-clicking on the project and 'Clean and Build'
 	You can also right-click on the Test file and run Unit Tests.
-	{First you would need to Open and Import the Maven Netbeans Project}
+	{First you would need to Clone and Download or Open and Import the Maven Netbeans Project}
+	
+	
 USAGE
 To run the (executable) jar just run:
 java -jar target/SuperSimpleStock_Maven_UT_03-1.0-SNAPSHOT-jar-with-dependencies.jar
 or from within Netbeans by right-clicking on the project and Run.
-{First you would need to Open and Import the Maven Netbeans Project}
+{First you would need to Clone and Download or Open and Import the Maven Netbeans Project}
 
 CLASSES
 Classes exist in following Directories
