@@ -2,14 +2,19 @@
 BUILD OUTPUT DESCRIPTION
 ========================
 
-This is a maven project, so you can run these 2 goals:
+This is a maven project, so you can run:
 
-    mvn test -> to execute the unit tests.
     mvn package -> to generate the executable jar.
+	mvn test -> to execute the unit tests.
 
+	or from within Netbeans by right-clicking on the project and 'Clean and Build'
+	You can also right-click on the Test file and run Unit Tests.
+	{First you would need to Open and Import the Maven Netbeans Project}
 USAGE
-To run the program just run:
+To run the (executable) jar just run:
 java -jar target/SuperSimpleStock_Maven_UT_03-1.0-SNAPSHOT-jar-with-dependencies.jar
+or from within Netbeans by right-clicking on the project and Run.
+{First you would need to Open and Import the Maven Netbeans Project}
 
 CLASSES
 Classes exist in following Directories
