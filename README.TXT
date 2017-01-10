@@ -32,7 +32,7 @@ In the 1st Directory above:
 Trade is a class that contains a POJO representing a Trade.
 
 Stock is a class managing Operations, calculations on Stocks {e.g. Dividend (on COMMON/PREFFERED), PERatio } 
-and GBCE All Share Index.
+and GBCE All Share Index, given assumed Prices as input.
 
 SuperSimpleStock is a class that contains the main() and uses Trade and Stock classes.
 
